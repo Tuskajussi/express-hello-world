@@ -52,7 +52,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Hello from Render! - Jussi Mäki
     </section>
   </body>
 </html>
